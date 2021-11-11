@@ -19,8 +19,8 @@ Vaccine Drive Registration System is a simple application developed to improve t
 - **Certificate_Generation.java** : This class is used to generate and download the certificate for the vaccinated beneficiary.
 - **Statistics_Form.java** : This frame displays the overall vaccination statistics in the form of plots.
 - **Stats.java** : This class is used to fetch the database to provide statistical data.
-- **Vaccinator.java** :
-- **Vaccination_Administrate.java** : 
+- **Vaccinator.java** : It provides the front-end frame for the vaccinator and enables the vaccinator to update the available vaccination shot.
+- **Vaccination_Administrate.java** :  This class is used to carry out the operations to be executed when a beneficiary takes an inoculation shot at a vaccination center.
 - **VaccineDriveRegistrationSystem.java** : This class is used to store the current login details(of beneficiary / vaccinator)
 - **home_page.java** : This frame is displayed after a beneficiary logs into the system. 
 
