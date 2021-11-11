@@ -1,6 +1,6 @@
 # Vaccine-Drive-Registration-System :syringe:
 
-Vaccine Drive Registration System is a simple application developed to improve the vaccination process by making it an easy-to-use platform. The main idea is to mimic the **CoWIN** potral, which is the vaccine drive system widely used in India. The back-end of the application is built with `Java` and the front-end is developed using `Java String` with the help of **Netbeans IDE**. The application begins with a simple login procedure that requires the consumer to enter his/her phone number, followed by the OTP sent to the specified phone number. Successful, entry into the application allows the user to use various features like viewing the statistical data of the overall vaccination status, scheduling an appointment, adding a beneficiary, downloading certificate of vaccinated beneficiaries and so on. For a given account/phone number, a consumer will be allowed to add upto four beneficiaries and schedule an each for each one of them individually. The consumer can book a slot by applying filters of district, date and pin code. The various vaccination centers satisfying the filter constraints will be displayed along with the crowdness level predicted for the center, among which the user will be allowed to choose a vaccination center of his/her convenience and also the vaccine type of their preference. After getting vaccinated, the download certificate option will be provided to user through which the user will able to download a detailed certificate as PDF. On the vaccinator end, the professional will be allowed to login using OTP authentication and then specify the details of the beneficiary taking the inoculation shots. The vaccinator will also be allowed update the count of each type of vaccines on recent stock arrivals or other situations. Thus the application provides a seemless experience of all the basic functionalities required for the **Vaccine Drive Registartion System**.
+Vaccine Drive Registration System is a simple application developed to improve the vaccination process by making it an easy-to-use platform. The main idea is to mimic the **CoWIN** potral, which is the vaccine drive system widely used in India. The back-end of the application is built with `Java` and the front-end is developed using `Java Swing` with the help of **Netbeans IDE**. The application begins with a simple login procedure that requires the consumer to enter his/her phone number, followed by the OTP sent to the specified phone number. Successful, entry into the application allows the user to use various features like viewing the statistical data of the overall vaccination status, scheduling an appointment, adding a beneficiary, downloading certificate of vaccinated beneficiaries and so on. For a given account/phone number, a consumer will be allowed to add upto four beneficiaries and schedule an each for each one of them individually. The consumer can book a slot by applying filters of district, date and pin code. The various vaccination centers satisfying the filter constraints will be displayed along with the crowdness level predicted for the center, among which the user will be allowed to choose a vaccination center of his/her convenience and also the vaccine type of their preference. After getting vaccinated, the download certificate option will be provided to user through which the user will able to download a detailed certificate as PDF. On the vaccinator end, the professional will be allowed to login using OTP authentication and then specify the details of the beneficiary taking the inoculation shots. The vaccinator will also be allowed update the count of each type of vaccines on recent stock arrivals or other situations. Thus the application provides a seemless experience of all the basic functionalities required for the **Vaccine Drive Registartion System**.
 
 ## File Description :file_folder:
 
@@ -27,7 +27,7 @@ Vaccine Drive Registration System is a simple application developed to improve t
 ## Software Tools Used :hammer_and_wrench:
 
 ### Front End
-- `Java String`
+- `Java Swing`
 
 ### Back End
 - `Java`
@@ -35,6 +35,6 @@ Vaccine Drive Registration System is a simple application developed to improve t
 - `MySQL`
 
 ### IDEs
-- **Netbeams** : For major part of `Java` and `Java String`
+- **Netbeans** : For major part of `Java` and `Java Swing`
 - **Google Colab** : For analysis of `machine learning` model
 - **MySQL Workbench** : For maintenance of database
