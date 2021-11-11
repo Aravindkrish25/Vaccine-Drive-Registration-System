@@ -38,3 +38,17 @@ Vaccine Drive Registration System is a simple application developed to improve t
 - **Netbeans** : For major part of `Java` and `Java Swing`
 - **Google Colab** : For analysis of `machine learning` model
 - **MySQL Workbench** : For maintenance of database
+
+## Download and Usage
+The code can be downloaded as a compressed zip file from the github web interface.
+
+The repository can also be cloned using:
+```
+git clone https://github.com/BarathKumarBK-15/Vaccine-Drive-Registration-System.git
+```
+
+- Import the downloaded project using **Netbeans**
+- Link the various `jar` files downloaded along with the project code
+- Install the required python modules like `pandas`, `holidays`, etc
+- Create a database named **VDRS** in `MySQL` and run the queries given alongside the code
+- Build and run the project in the **Netbeans** IDE
