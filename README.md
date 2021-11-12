@@ -57,7 +57,8 @@ git clone https://github.com/BarathKumarBK-15/Vaccine-Drive-Registration-System.
 - Create a database named **VDRS** in `MySQL` and run the queries given alongside the code
 - Build and run the project in the **Netbeans** IDE
 
-##Contributors
+
+## Contributors
 - <a href="https://github.com/Aravindkrish25">Aravind M </a>
 - <a href="https://github.com/Hrithik1702">Hrithik B </a>
 - <a href="https://github.com/Bhooshaan">Bhooshaan A</a>
