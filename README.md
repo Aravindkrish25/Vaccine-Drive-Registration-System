@@ -56,3 +56,11 @@ git clone https://github.com/BarathKumarBK-15/Vaccine-Drive-Registration-System.
 - Install the required python modules like `pandas`, `holidays`, etc
 - Create a database named **VDRS** in `MySQL` and run the queries given alongside the code
 - Build and run the project in the **Netbeans** IDE
+
+##Contributors
+- <a href="https://github.com/Aravindkrish25">Aravind M </a>
+- <a href="https://github.com/Hrithik1702">Hrithik B </a>
+- <a href="https://github.com/Bhooshaan">Bhooshaan A</a>
+- <a href="https://github.com/TarunVisva07">Tarun Visva R</a>
+- <a href="https://github.com/BarathKumarBK-15">Barath Kumar G</a>
+- Srinivasan G
